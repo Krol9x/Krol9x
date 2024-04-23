@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Hubert
 
-My name is Hubert and here is my introduction:
+I am a person eager for continuous development who is looking for new experience in the field of IT. React/Python
 
 - 🔭 I’m currently working on python data analysis scripts in my company
 - 🌱 I’m currently learning Python/React
