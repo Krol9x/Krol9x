@@ -17,6 +17,5 @@ I am a person eager for continuous development who is looking for new experience
   
 <br></br>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krol9x&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
