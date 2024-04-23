@@ -22,3 +22,5 @@ I am a person eager for continuous development who is looking for new experience
     <img src="https://skillicons.dev/icons?i=react,js,css,html,firebase,php,py,pytorch,tensorflow" />
   </a>
 </p>
+
+![Code Percentage](https://img.shields.io/badge/Code_Percentage-75%25-brightgreen)
