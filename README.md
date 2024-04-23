@@ -17,7 +17,8 @@ I am a person eager for continuous development who is looking for new experience
   
 <br></br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krol9x&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br></br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,firebase,php,py,tensorflow,pytorch)](https://skillicons.dev)
