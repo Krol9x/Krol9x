@@ -1,10 +1,9 @@
 <h1 align="center">
 Hi there👋, My name is Hubert
 </h1>
-
-
+<h3 align="center">
 I am a person eager for continuous development who is looking for new experience in the field of IT. React/Python
-
+</h3>
 
 
 - 🔭 I’m currently working on python data analysis scripts in my company
