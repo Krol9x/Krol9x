@@ -23,4 +23,4 @@ I am a person eager for continuous development who is looking for new experience
   </a>
 </p>
 
-![Code Percentage](https://img.shields.io/badge/Code_Percentage-75%25-brightgreen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
