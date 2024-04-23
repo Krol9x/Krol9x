@@ -25,9 +25,5 @@ I am a person eager for continuous development who is looking for new experience
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<style>
-  .card {
-    background-color: black !important;
-  }
-</style>
+
 
