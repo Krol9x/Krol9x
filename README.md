@@ -9,6 +9,6 @@ I am a person eager for continuous development who is looking for new experience
   
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,css,html,firebase,php,py,pytorch" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,css,html,firebase,php,py,pytorch" />
   </a>
 </p>
