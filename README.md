@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**Krol9x/Krol9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Hubert and here is my introduction:
 
 - 🔭 I’m currently working on python data analysis scripts in my company
 - 🌱 I’m currently learning Python/React
