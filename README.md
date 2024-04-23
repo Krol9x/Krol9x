@@ -21,7 +21,7 @@ I am a person eager for continuous development who is looking for new experience
 
 <br></br>
 <h4>
-technologies I use on a daily basis:
+Technologies I use on a daily basis:
 </h4>
 <br></br>
 
