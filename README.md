@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 Hi there👋, My name is Hubert
-</p>
+</h1>
 
 
 I am a person eager for continuous development who is looking for new experience in the field of IT. React/Python
