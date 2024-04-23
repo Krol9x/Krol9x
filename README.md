@@ -1,5 +1,5 @@
-<p align="center">
-### Hi there👋, My name is Hubert
+<p align="center" style="font-size: 20px;>
+Hi there👋, My name is Hubert
 </p>
 I am a person eager for continuous development who is looking for new experience in the field of IT. React/Python
 
