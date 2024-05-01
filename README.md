@@ -12,7 +12,7 @@ I am a person eager for continuous development who is looking for new experience
 
 - 🔭 I’m currently working on python data analysis scripts in my company
 - 🌱 I’m currently learning Python/React
-- 📫 How to reach me: hubert.krol0000@gmail.com or https://pl.linkedin.com/in/hubert-kr%C3%B3l-812096239
+- 📫 How to reach me: hubert.krol0000@gmail.com
 - 😄 Pronouns: He/Him
   
 <br></br>
