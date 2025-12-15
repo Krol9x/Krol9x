@@ -13,9 +13,7 @@ I am a person eager for continuous development who is looking for new experience
 - 📫 reach me: hubert.krol0000@gmail.com
 
 <br></br>
-<h4>
-Technologies I use on a daily basis:
-</h4>
+
 <br></br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,firebase,php,py)](https://skillicons.dev)
