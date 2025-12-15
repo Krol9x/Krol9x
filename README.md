@@ -18,7 +18,7 @@ Technologies I use on a daily basis:
 </h4>
 <br></br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,firebase,php,py,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,firebase,php,py)](https://skillicons.dev)
 
 <br></br>
 
