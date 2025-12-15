@@ -8,11 +8,6 @@ My name is Hubert
 I am a person eager for continuous development who is looking for new experience in the field of IT. React/Python
 </h3>
 
-<br></br>
-
-- 📫 reach me: hubert.krol0000@gmail.com
-
-<br></br>
 
 <br></br>
 
