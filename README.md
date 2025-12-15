@@ -10,11 +10,8 @@ I am a person eager for continuous development who is looking for new experience
 
 <br></br>
 
-- 🔭 I’m currently working on python data analysis scripts in my company
-- 🌱 I’m currently learning Python/React
-- 📫 How to reach me: hubert.krol0000@gmail.com
-- 😄 Pronouns: He/Him
-  
+- 📫 reach me: hubert.krol0000@gmail.com
+
 <br></br>
 <h4>
 Technologies I use on a daily basis:
